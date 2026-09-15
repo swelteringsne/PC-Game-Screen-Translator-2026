@@ -165,3 +165,4 @@ Website: https://flyn.co/17yeN7/
 This is an independent utility project. Third-party AI models, codecs, OCR engines, translation models, and media frameworks remain subject to their own licenses and terms.
 
 Always verify the licensing requirements of any model or backend you choose to bundle or redistribute.
+                                                                                                    
